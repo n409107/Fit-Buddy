@@ -1,8 +1,8 @@
-# 🏋️‍♂️ FitBuddy: AI Fitness Plan Generator
+# 🏋️‍♂️ FitBuddy : AI Fitness Plan Generator
 
 FitBuddy is an interactive web application built with Python and Streamlit to generate personalized workout routines and customized diet plans instantly.
 
----
+----
 
 ## 📁 Project Documentation
 
