@@ -24,5 +24,5 @@ All formal project documentation and reports are available in the [documents](./
 
 1. Clone or download this repository.
 2. Install the required dependency:
-   ``` bash
+   ``` bash 
    pip install streamlit
